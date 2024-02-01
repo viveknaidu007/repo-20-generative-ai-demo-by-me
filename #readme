@@ -1,0 +1,14 @@
+#limitations of openai api:
+1.openai model is not free then how they will charge ? , yeah based on tokens 
+2.it was trained till for 2021 , it  has limited knowledge
+
+*by using the langchain we can use any llms
+*by usin gth elangchain we can use model from huggingface also
+
+apis list langchain having :
+
+#langchain:
+1.we can acess any model access different model using api 
+2.we can acess private data resources
+3.we can acesss 3rd party api
+- langchain has chains-perform multiple things,document loader, llms-huggingface-openai, agents , it can retain the memory ,templates
