@@ -1,0 +1,5 @@
+opneai
+langchain
+streamlit     #for web browser api
+python-dotenv #for accesing the api key in envfile to our project
+PyPDF2        #for reading the docuemnts file
